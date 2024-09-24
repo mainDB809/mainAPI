@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "title": "credits",
+      "items": [
+          {
+            "name": "Credit A",
+            "offer_url": "",
+            "rating": 4.8,
+            "offer_id": "loan-a-789",
+            "image_url": "",
+            "limit_from": 0,
+            "limit_to": 0,
+            "interest_rate_from": 0.0,
+            "interest_rate_to": 0.0,
+            "detail_info_url": ""
+          },
+          {
+            "name": "Credit B",
+            "offer_url": "",
+            "rating": 4.1,
+            "offer_id": "loan-b-012",
+            "image_url": "",
+            "limit_from": 0,
+            "limit_to": 0,
+            "interest_rate_from": 0.0,
+            "interest_rate_to": 0.0,
+            "detail_info_url": ""
+          }
+      ]
+    },
+    {
+      "title": "loans",
+      "items": [
+        {
+          "name": "Срочно деньги",
+          "offer_url": "https://ldrdct.net/go/s4zprqbv2q",
+          "rating": 4.7,
+          "offer_id": "2987",
+          "image_url": "",
+          "limit_from": 1000,
+          "limit_to": 100000,
+          "interest_rate_from": 0.8,
+          "interest_rate_to": null,
+          "detail_info_url": "https://srochnodengi.ru/faq/"
+        },
+        {
+          "name": "Belka credit",
+          "offer_url": "https://ldrdct.net/go/swbw7tme8g",
+          "rating": 4.3,
+          "offer_id": "2321",
+          "image_url": "",
+          "limit_from": 1000,
+          "limit_to": 30000,
+          "interest_rate_from": 0.8,
+          "interest_rate_to": null,
+          "detail_info_url": "https://belkacredit.ru/wp-content/uploads/2024/08/usloviya-besplatnogo-zajma-belka-credit.pdf"
+        },
+        {
+          "name": "Moneyman",
+          "offer_url": "",
+          "rating": 4.3,
+          "offer_id": "1655",
+          "image_url": "",
+          "limit_from": 1500,
+          "limit_to": 80000,
+          "interest_rate_from": null,
+          "interest_rate_to": null,
+          "detail_info_url": "https://moneyman.ru/get-mikrozaim/ways-to-loan/"
+        },
+        {
+          "name": "Деньги сразу",
+          "offer_url": "https://ldrdct.net/go/sdhe0u3g9d",
+          "rating": null,
+          "offer_id": "2387",
+          "image_url": "",
+          "limit_from": 1000,
+          "limit_to": 100000,
+          "interest_rate_from": 0.0,
+          "interest_rate_to": null,
+          "detail_info_url": "https://dengisrazy.ru/faq"
+        },
+        {
+          "name": "Webbankir",
+          "offer_url": "https://ldrdct.net/go/s9zkzq5p2i",
+          "rating": 4.2,
+          "offer_id": "3016",
+          "image_url": "",
+          "limit_from": 3000,
+          "limit_to": 30000,
+          "interest_rate_from": null,
+          "interest_rate_to": null,
+          "detail_info_url": "https://webbankir.com/poluchit-zaym"
+        }
+      ]
+    },
+    {
+      "title": "credit_cards",
+      "items": [
+        {
+          "name": "Credit Card A",
+          "offer_url": "",
+          "rating": 4.9,
+          "offer_id": "",
+          "image_url": "",
+          "limit_from": 0,
+          "limit_to": 0,
+          "interest_rate_from": 0.0,
+          "interest_rate_to": 0.0,
+          "detail_info_url": "",
+          "days_without_interest": 160
+        },
+        {
+          "name": "Credit Card B",
+          "offer_url": "",
+          "rating": 4.6,
+          "offer_id": "",
+          "image_url": "",
+          "limit_from": 0,
+          "limit_to": 0,
+          "interest_rate_from": 0.0,
+          "interest_rate_to": 0.0,
+          "detail_info_url": "",
+          "days_without_interest": 100
+        }
+      ]
+    }
+  ]
+}
