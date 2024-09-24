@@ -1,7 +1,8 @@
 {
   "data": [
     {
-      "title": "credits",
+      "title": "Кредиты",
+      "image_url": "https://maindb809.github.io/mainAPI/credits_image.png",
       "items": [
           {
             "name": "Credit A",
@@ -30,7 +31,8 @@
       ]
     },
     {
-      "title": "loans",
+      "title": "Займы",
+      "image_url": "https://maindb809.github.io/mainAPI/loans_image.png",
       "items": [
         {
           "name": "Срочно деньги",
@@ -95,7 +97,8 @@
       ]
     },
     {
-      "title": "credit_cards",
+      "title": "Карты",
+      "image_url": "https://maindb809.github.io/mainAPI/cards_image.png",
       "items": [
         {
           "name": "Credit Card A",
