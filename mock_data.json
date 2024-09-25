@@ -40,7 +40,7 @@
           "rating": 4.7,
           "offer_id": "2987",
           "image_url": "https://maindb809.github.io/mainAPI/Urgent%20money.jpg",
-          "limit_from": 1000,
+          "limit_from": 2000,
           "limit_to": 100000,
           "interest_rate_from": 0.8,
           "interest_rate_to": null,
@@ -49,25 +49,25 @@
         {
           "name": "Belka credit",
           "offer_url": "https://ldrdct.net/go/swbw7tme8g",
-          "rating": 4.3,
+          "rating": 4.5,
           "offer_id": "2321",
           "image_url": "https://maindb809.github.io/mainAPI/Belka%20credit.jpg",
           "limit_from": 1000,
-          "limit_to": 30000,
-          "interest_rate_from": 0.8,
+          "limit_to": 60000,
+          "interest_rate_from": 0.0,
           "interest_rate_to": null,
           "detail_info_url": "https://belkacredit.ru/wp-content/uploads/2024/08/usloviya-besplatnogo-zajma-belka-credit.pdf"
         },
         {
           "name": "Moneyman",
           "offer_url": "",
-          "rating": 4.3,
+          "rating": 4.4,
           "offer_id": "1655",
           "image_url": "https://maindb809.github.io/mainAPI/Moneyman.jpg",
           "limit_from": 1500,
-          "limit_to": 80000,
-          "interest_rate_from": null,
-          "interest_rate_to": null,
+          "limit_to": 100000,
+          "interest_rate_from": 0.0,
+          "interest_rate_to": 0.8,
           "detail_info_url": "https://moneyman.ru/get-mikrozaim/ways-to-loan/"
         },
         {
@@ -88,10 +88,10 @@
           "rating": 4.2,
           "offer_id": "3016",
           "image_url": "https://maindb809.github.io/mainAPI/Webbankir.jpg",
-          "limit_from": 3000,
-          "limit_to": 30000,
-          "interest_rate_from": null,
-          "interest_rate_to": null,
+          "limit_from": 2000,
+          "limit_to": 49900,
+          "interest_rate_from": 0.0,
+          "interest_rate_to": 0.8,
           "detail_info_url": "https://webbankir.com/poluchit-zaym"
         }
       ]
