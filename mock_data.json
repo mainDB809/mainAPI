@@ -171,8 +171,8 @@
       ]
     },
     {
-      "title": "Карты",
-      "subtitle": "Кредитные",
+      "title": "Кредитные карты",
+      "subtitle": null,
       "image_url": "https://maindb809.github.io/mainAPI/cards_image.png",
       "items": [
         {
@@ -269,8 +269,8 @@
       ]
     },
     {
-      "title": "Карты",
-      "subtitle": "Дебетовые",
+      "title": "Дебетовые карты",
+      "subtitle": null,
       "image_url": "https://maindb809.github.io/mainAPI/cards_image.png",
       "items": [
           {
