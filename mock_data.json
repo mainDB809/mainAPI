@@ -2,6 +2,7 @@
   "data": [
     {
       "title": "Кредиты",
+      "subtitle": "Для всех",
       "image_url": "https://maindb809.github.io/mainAPI/credits_image.png",
       "items": [
           {
@@ -32,6 +33,7 @@
     },
     {
       "title": "Займы",
+      "subtitle": "Моментальные, 0%",
       "image_url": "https://maindb809.github.io/mainAPI/loans_image.png",
       "items": [
         {
@@ -98,6 +100,7 @@
     },
     {
       "title": "Карты",
+      "subtitle": "Кредитные, дебетовые",
       "image_url": "https://maindb809.github.io/mainAPI/cards_image.png",
       "items": [
         {
