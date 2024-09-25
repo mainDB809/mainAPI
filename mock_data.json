@@ -172,35 +172,172 @@
     },
     {
       "title": "Карты",
-      "subtitle": "Кредитные, дебетовые",
+      "subtitle": "Кредитные",
       "image_url": "https://maindb809.github.io/mainAPI/cards_image.png",
       "items": [
         {
-          "name": "Credit Card A",
-          "offer_url": "",
+          "name": "Свой Банк",
+          "offer_url": "https://ldrdct.net/go/sspehmsva7",
           "rating": 4.9,
           "offer_id": "",
-          "image_url": null,
+          "image_url": "https://maindb809.github.io/mainAPI/Свой%20Банк.png",
           "limit_from": 0,
           "limit_to": 0,
           "interest_rate_from": 0.0,
           "interest_rate_to": 0.0,
           "detail_info_url": "",
-          "days_without_interest": 160
+          "days_without_interest": 120
         },
         {
-          "name": "Credit Card B",
-          "offer_url": "",
+          "name": "Зенит",
+          "offer_url": "https://ldrdct.net/go/s63ule7k0j",
           "rating": 4.6,
           "offer_id": "",
-          "image_url": null,
+          "image_url": "https://maindb809.github.io/mainAPI/Зенит.png",
           "limit_from": 0,
           "limit_to": 0,
           "interest_rate_from": 0.0,
           "interest_rate_to": 0.0,
           "detail_info_url": "",
-          "days_without_interest": 100
+          "days_without_interest": 120
+        },
+        {
+          "name": "Синара Банк",
+          "offer_url": "https://ldrdct.net/go/salpcw084q",
+          "rating": 4.4,
+          "offer_id": "",
+          "image_url": "https://maindb809.github.io/mainAPI/Синара%20Банк.png",
+          "limit_from": 0,
+          "limit_to": 0,
+          "interest_rate_from": 0.0,
+          "interest_rate_to": 0.0,
+          "detail_info_url": "",
+          "days_without_interest": 56
+        },
+        {
+          "name": "Сбербанк",
+          "offer_url": "https://ldrdct.net/go/sg7g14rvi1",
+          "rating": 4.4,
+          "offer_id": "",
+          "image_url": "https://maindb809.github.io/mainAPI/Сбербанк.png",
+          "limit_from": 0,
+          "limit_to": 0,
+          "interest_rate_from": 0.0,
+          "interest_rate_to": 0.0,
+          "detail_info_url": "",
+          "days_without_interest": 120
+        },
+        {
+          "name": "Кредит Европа Банк",
+          "offer_url": "https://ldrdct.net/go/s39k8qd7k8",
+          "rating": 4.2,
+          "offer_id": "",
+          "image_url": "https://maindb809.github.io/mainAPI/Кредит%20Европа%20Банк.png",
+          "limit_from": 0,
+          "limit_to": 0,
+          "interest_rate_from": 0.0,
+          "interest_rate_to": 0.0,
+          "detail_info_url": "",
+          "days_without_interest": null
+        },
+        {
+          "name": "АТБ",
+          "offer_url": "https://ldrdct.net/go/sok9wrbvaj",
+          "rating": 4.4,
+          "offer_id": "",
+          "image_url": "https://maindb809.github.io/mainAPI/АТБ.png",
+          "limit_from": 0,
+          "limit_to": 0,
+          "interest_rate_from": 0.0,
+          "interest_rate_to": 0.0,
+          "detail_info_url": "",
+          "days_without_interest": 212
+        },
+        {
+          "name": "Т-Банк",
+          "offer_url": "https://ldrdct.net/go/sxhu9xixik",
+          "rating": 4.5,
+          "offer_id": "",
+          "image_url": "https://maindb809.github.io/mainAPI/Т-Банк.png",
+          "limit_from": 0,
+          "limit_to": 0,
+          "interest_rate_from": 0.0,
+          "interest_rate_to": 0.0,
+          "detail_info_url": "https://acdn.tinkoff.ru/static/documents/oferta-information-transfer-terms-consent-ad.pdf",
+          "days_without_interest": null
         }
+      ]
+    },
+    {
+      "title": "Карты",
+      "subtitle": "Дебетовые",
+      "image_url": "https://maindb809.github.io/mainAPI/cards_image.png",
+      "items": [
+          {
+            "name": "МТС",
+            "offer_url": "https://ldrdct.net/go/sj51m69dds",
+            "rating": 4.7,
+            "offer_id": "",
+            "image_url": "https://maindb809.github.io/mainAPI/МТС.png",
+            "limit_from": 0,
+            "limit_to": 0,
+            "interest_rate_from": 0.0,
+            "interest_rate_to": 0.0,
+            "detail_info_url": "",
+            "days_without_interest": null
+          },
+          {
+            "name": "ФОРАБАНК",
+            "offer_url": "https://ldrdct.net/go/sbcl7iz5fe",
+            "rating": 4.5,
+            "offer_id": "",
+            "image_url": "https://maindb809.github.io/mainAPI/ФОРАБАНК.png",
+            "limit_from": 0,
+            "limit_to": 0,
+            "interest_rate_from": 0.0,
+            "interest_rate_to": 0.0,
+            "detail_info_url": "",
+            "days_without_interest": null
+          },
+          {
+            "name": "ОТП банк",
+            "offer_url": "https://ldrdct.net/go/svriv84ig5",
+            "rating": 4.3,
+            "offer_id": "",
+            "image_url": "https://maindb809.github.io/mainAPI/ОТП%20банк%20.png",
+            "limit_from": 0,
+            "limit_to": 0,
+            "interest_rate_from": 0.0,
+            "interest_rate_to": 0.0,
+            "detail_info_url": "",
+            "days_without_interest": null
+          },
+          {
+            "name": "Совкомбанк",
+            "offer_url": "https://ldrdct.net/go/s1hzjpesqw",
+            "rating": 4.2,
+            "offer_id": "",
+            "image_url": "https://maindb809.github.io/mainAPI/Совкомбанк.png",
+            "limit_from": 0,
+            "limit_to": 0,
+            "interest_rate_from": 0.0,
+            "interest_rate_to": 0.0,
+            "detail_info_url": "",
+            "days_without_interest": null
+          },
+          {
+            "name": "Т-Банк",
+            "offer_url": "https://ldrdct.net/go/salo3yzg7n",
+            "rating": 4.2,
+            "offer_id": "",
+            "image_url": "https://maindb809.github.io/mainAPI/Т-Банк.png",
+            "limit_from": 0,
+            "limit_to": 0,
+            "interest_rate_from": 0.0,
+            "interest_rate_to": 0.0,
+            "detail_info_url": "",
+            "days_without_interest": null
+          }
       ]
     }
   ]
