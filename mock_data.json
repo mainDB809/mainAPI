@@ -12,10 +12,10 @@
             "offer_id": null,
             "image_url": "https://maindb809.github.io/mainAPI/Gazprombank.png",
             "limit_from": null,
-            "limit_to": null,
-            "interest_rate_from": null,
+            "limit_to": 7000000,
+            "interest_rate_from": 23.4,
             "interest_rate_to": null,
-            "detail_info_url": null
+            "detail_info_url": "https://www.gazprombank.ru/faq/personal/"
           },
           {
             "name": "Совкомбанк",
@@ -24,8 +24,8 @@
             "offer_id": null,
             "image_url": "https://maindb809.github.io/mainAPI/Sovcombank.png",
             "limit_from": null,
-            "limit_to": null,
-            "interest_rate_from": null,
+            "limit_to": 30000000,
+            "interest_rate_from": 14.9,
             "interest_rate_to": null,
             "detail_info_url": null
           },
@@ -36,10 +36,10 @@
             "offer_id": null,
             "image_url": "https://maindb809.github.io/mainAPI/Metallinvestbank.png",
             "limit_from": null,
-            "limit_to": null,
-            "interest_rate_from": null,
+            "limit_to": 3000000,
+            "interest_rate_from": 16.0,
             "interest_rate_to": null,
-            "detail_info_url": null
+            "detail_info_url": "https://metallinvestbank.ru/private/consumer/consumer_docs/"
           },
         {
             "name": "МТС",
@@ -48,10 +48,10 @@
             "offer_id": null,
             "image_url": "https://maindb809.github.io/mainAPI/MTS.png",
             "limit_from": null,
-            "limit_to": null,
-            "interest_rate_from": null,
+            "limit_to": 15000000,
+            "interest_rate_from": 10.9,
             "interest_rate_to": null,
-            "detail_info_url": null
+            "detail_info_url": "https://www.mtsbank.ru/o-banke/raskritie-informacii/deposit-rates/2024/"
           },
         {
             "name": "АТБ",
@@ -60,7 +60,7 @@
             "offer_id": null,
             "image_url": "https://maindb809.github.io/mainAPI/ATB.png",
             "limit_from": null,
-            "limit_to": null,
+            "limit_to": 5000000,
             "interest_rate_from": null,
             "interest_rate_to": null,
             "detail_info_url": null
@@ -72,10 +72,10 @@
             "offer_id": null,
             "image_url": "https://maindb809.github.io/mainAPI/T-Bank.png",
             "limit_from": null,
-            "limit_to": null,
-            "interest_rate_from": null,
+            "limit_to": 30000000,
+            "interest_rate_from": 18.9,
             "interest_rate_to": null,
-            "detail_info_url": null
+            "detail_info_url": "https://acdn.tinkoff.ru/static/documents/loans-cashloan-tariff.pdf"
           },
         {
             "name": "Зенит",
@@ -84,10 +84,10 @@
             "offer_id": null,
             "image_url": "https://maindb809.github.io/mainAPI/Zenith.png",
             "limit_from": null,
-            "limit_to": null,
-            "interest_rate_from": null,
+            "limit_to": 40000000,
+            "interest_rate_from": 19.0,
             "interest_rate_to": null,
-            "detail_info_url": null
+            "detail_info_url": "https://www.zenit.ru/tarifs-credit.html"
           }
       ]
     },
@@ -183,9 +183,9 @@
           "image_url": "https://maindb809.github.io/mainAPI/YourBank.png",
           "limit_from": null,
           "limit_to": null,
-          "interest_rate_from": null,
-          "interest_rate_to": null,
-          "detail_info_url": null,
+          "interest_rate_from": 19.9,
+          "interest_rate_to": 39.0,
+          "detail_info_url": "https://svoi.ru/static-documents/rates_credit_card_own_card.pdf",
           "days_without_interest": 120
         },
         {
@@ -195,10 +195,10 @@
           "offer_id": null,
           "image_url": "https://maindb809.github.io/mainAPI/Zenith.png",
           "limit_from": null,
-          "limit_to": null,
-          "interest_rate_from": null,
-          "interest_rate_to": null,
-          "detail_info_url": null,
+          "limit_to": 2000000,
+          "interest_rate_from": 29.9,
+          "interest_rate_to": 39.9,
+          "detail_info_url": "https://www.zenit.ru/tarifs-card.html",
           "days_without_interest": 120
         },
         {
@@ -208,8 +208,8 @@
           "offer_id": null,
           "image_url": "https://maindb809.github.io/mainAPI/SinaraBank.png",
           "limit_from": null,
-          "limit_to": null,
-          "interest_rate_from": null,
+          "limit_to": 700000,
+          "interest_rate_from": 29.9,
           "interest_rate_to": null,
           "detail_info_url": null,
           "days_without_interest": 56
@@ -221,16 +221,16 @@
           "offer_id": null,
           "image_url": "https://maindb809.github.io/mainAPI/Sberbank.png",
           "limit_from": null,
-          "limit_to": null,
-          "interest_rate_from": null,
-          "interest_rate_to": null,
-          "detail_info_url": null,
+          "limit_to": 1000000,
+          "interest_rate_from": 24.7,
+          "interest_rate_to": 38.3,
+          "detail_info_url": "https://www.sberbank.com/common/img/uploaded/files/pdf/pamyatka_derzhatelya_bankovskoy_karty.pdf",
           "days_without_interest": 120
         },
         {
           "name": "Кредит Европа Банк",
           "offer_url": "https://ldrdct.net/go/s39k8qd7k8",
-          "rating": 4.2,
+          "rating": 4.1,
           "offer_id": null,
           "image_url": "https://maindb809.github.io/mainAPI/CreditEuropeBank.png",
           "limit_from": null,
@@ -243,7 +243,7 @@
         {
           "name": "АТБ",
           "offer_url": "https://ldrdct.net/go/sok9wrbvaj",
-          "rating": 4.4,
+          "rating": 3.8,
           "offer_id": null,
           "image_url": "https://maindb809.github.io/mainAPI/ATB.png",
           "limit_from": null,
@@ -256,15 +256,15 @@
         {
           "name": "Т-Банк",
           "offer_url": "https://ldrdct.net/go/sxhu9xixik",
-          "rating": 4.5,
+          "rating": 4.1,
           "offer_id": null,
           "image_url": "https://maindb809.github.io/mainAPI/T-Bank.png",
           "limit_from": null,
-          "limit_to": null,
+          "limit_to": 1000000,
           "interest_rate_from": null,
           "interest_rate_to": null,
           "detail_info_url": "https://acdn.tinkoff.ru/static/documents/oferta-information-transfer-terms-consent-ad.pdf",
-          "days_without_interest": null
+          "days_without_interest": 120
         }
       ]
     },
